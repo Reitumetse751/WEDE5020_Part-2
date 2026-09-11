@@ -4,7 +4,7 @@ The Book Nook - Independent Bookstore Website
 
 Student Information
 Field	Details
-Student Name	[Lesego Mashego]
+Student Name	[Reitumetse Maboi]
 Student Number	[st10514901]
 Subject Code	WEDE5020POE
 
